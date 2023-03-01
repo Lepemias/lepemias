@@ -4,7 +4,7 @@
 ### <div align="center"><h1> Hello World! </h1> );}</div>  
   
 
-My nickname is Jere, pleased to see you here  
+### <div align="center">My nickname is Jere, pleased to see you here</div>  
   
 
 <br/>  
